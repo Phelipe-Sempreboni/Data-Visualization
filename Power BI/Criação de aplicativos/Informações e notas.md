@@ -163,7 +163,9 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 * Crie uma seção, neste caso criei a seção (Dashboards). Dê enter.
 
-* Agora clique no nome do seu relatório, clique no campo ao lado direito (Seção), escolha a seção criada (Dashboards) e clique novamente no nome do seu relatório. Também é possível inserir os relatórios nas seções pelas setas. Pronto, agora o seu relatório encontra-se na seção (Dashboards).
+* Agora clique no nome do seu relatório, clique no campo ao lado direito (Seção), escolha a seção criada (Dashboards) e clique novamente no nome do seu relatório. Também é possível inserir os relatórios nas seções pelas setas. 
+
+* Pronto, agora o seu relatório encontra-se na seção (Dashboards).
 
 * Para o próximo passo, crie uma seção chamada (Vídeos) e uma seção chamada (Documentos).
 
@@ -183,7 +185,7 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 ---
 
-9º - Editando um aplicativo existente, com criação de vínculo em um arquivo
+9º - Editando um aplicativo existente, com criação de vínculo em um arquivo, neste caso um vídeo do Youtube.
 
 * Agora iremos vincular um link e não criar uma seção. Neste caso iremos vincular a um link do Youtune com um vídeo explicativo sobre mecânica de veículos.
 
@@ -201,7 +203,9 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 * No campo (Abrir em) você pode escolher onde será aberto esse vídeo, neste caso, irei deixar a selação (Área de conteúdo), onde o vídeo será reproduzido no próprio aplicativo do Power BI.
 
-* No campo (Grupo), irei deixar no grupo ou seção que criamos no final do 8º passo, o chamado (Vídeo).
+* No campo (Grupo), irei deixar no grupo e/ou seção que criamos no final do 8º passo, o chamado (Vídeo).
+
+* Pronto, agora o seu vídeo encontra-se no grupo e/ou seção (Vídeos).
 
 ![image](https://user-images.githubusercontent.com/57469401/132141423-55e3fc71-f041-431e-8ddf-b3c7f941966a.png)
 
@@ -210,6 +214,40 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 ![image](https://user-images.githubusercontent.com/57469401/132141152-8d1ee2f8-6c79-4693-84ae-0148f2d6c35a.png)
 
 ![image](https://user-images.githubusercontent.com/57469401/132141166-f33be7b5-bd71-473d-8542-54528ad62bae.png)
+
+---
+
+10º - Editando um aplicativo existente, com criação de vínculo em um arquivo, neste caso um arquivo em pdf.
+
+* Os mesmos passos do (8º e 9º passo) podem ser executados para praticamente qualquer arquivo, como por exemplo um PDF.
+
+* Neste caso, estou utilizando um arquivo PDF de teste da web, com um link diretamente da Web, neste caso o PDF do link (https://araucariageneticabovina.com.br/arquivos/servico/pdfServico_57952bf8ca7af_24-07-2016_17-58-32.pdf).
+
+ * Nota importante: Caso haja erros de permissão com o site, baixe esse arquivo em pdf, coloque esse arquivo em nuvem, como por exemplo, OneDrive, Google Drive ou até um bucket S3 na AWS, e, carregue com esse link, pois, a segurança do Power BI Service pode não ter confiado e não irá liberar este link por exemplo.
+
+* Pronto, agora o seu documento encontra-se no grupo e/ou seção (Documentos).
+
+![image](https://user-images.githubusercontent.com/57469401/132141765-575cf0bb-3f4b-400b-8cf2-286147ec4c24.png)
+
+---
+
+11º - Ao final desses últimos passos, o (8º, 9º e 10º), clique em (Atualizar aplicativo) e vá para seu aplicativo e valide se as informações estão corretas.
+
+* Pronto, seu aplicativo do Power BI está pronto para uso e compartilhamentos.
+
+![image](https://user-images.githubusercontent.com/57469401/132141820-36bdfb30-f040-4010-85d8-6ec3c7e2f1d4.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132141832-f635cca4-4dda-465c-8cae-55a3a6b26e03.png)
+
+---
+
+Resultado do aplicativo:
+
+![image](https://user-images.githubusercontent.com/57469401/132141960-9b123277-4dfc-443b-93f8-705f6c9600a0.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132141966-172f8b2c-7273-4037-93df-1617f3b3334f.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132141970-3f150363-638c-49f4-ab69-381461ac3991.png)
 
 ---
 
