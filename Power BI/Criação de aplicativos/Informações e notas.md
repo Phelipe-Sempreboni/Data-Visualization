@@ -76,4 +76,28 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 ---
 
+7º - Publicação do seu relatório do Power BI Desktop na Workspace criada.
+
+* Abra o seu relatório do Power BI Desktop.
+
+* Clique em (Publicar) no menu da (Página inicial).
+
+* Abrirá uma tela chamada (Publicar no Power BI).
+
+* Selecione a Workspace criada nesssa tela e clique em (Selecionar).
+
+* Abrirá uma tela chamada (Publicando no Power BI) e se tudo ocorreto certo, aparecerá uma mensagem nesta tela escrito (Êxito!). Também possível abrir o relatório na web com o link que aparece nessa mesma tela.
+
+* Ao finalizar, clique na tela (Publicando no Power BI) em (Entendi).
+
+* Vá até a página (https://app.powerbi.com/home), procure sua Workspace e verifique se o relatório foi carregado.
+
+![image](https://user-images.githubusercontent.com/57469401/132139402-ebf7faab-fa52-43a3-b5f8-c9fcb00136d4.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132139613-e81b87fd-e88b-42d3-b7d2-80d5ad7441e0.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132139703-e2a8f427-7f7f-41cb-ae86-8f281ce30faa.png)
+
+---
+
 _Espero ajudar_ :smiley:
