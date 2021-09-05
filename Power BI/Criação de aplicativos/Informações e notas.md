@@ -60,4 +60,20 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 ---
 
+6º - É possível liberar acessos para pessoas a seu grupo de trabalho (Workspace), onde é possível inserir um e-mail nominal, ou até um grupo de e-mail com diversas pessoas. Para liberar acesso:
+
+* Clique na Workspace criada, neste a (Time de mecânica).
+
+* Clique em (Acessar). Abrirá uma tela chamada (Acessar).
+
+* Insira os endereços de e-mail, tanto nominais e/ou grupos de e-mail.
+
+* Selecione o tipo de função daquela pessoa na Workspace, onde essa parte é de grande importância.
+
+* Tipos de funções: Administrador, Membro, Contribuidor e Visualizador.
+
+![image](https://user-images.githubusercontent.com/57469401/132139070-33df652b-778c-43a0-9846-4244dac24abb.png)
+
+---
+
 _Espero ajudar_ :smiley:
