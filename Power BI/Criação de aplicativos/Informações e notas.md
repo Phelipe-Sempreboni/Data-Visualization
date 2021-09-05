@@ -98,6 +98,8 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 ![image](https://user-images.githubusercontent.com/57469401/132139703-e2a8f427-7f7f-41cb-ae86-8f281ce30faa.png)
 
+![image](https://user-images.githubusercontent.com/57469401/132139823-10ecfcff-2755-44e7-8c6e-cd0c9f72c156.png)
+
 ---
 
 _Espero ajudar_ :smiley:
