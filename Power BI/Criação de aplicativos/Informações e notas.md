@@ -147,7 +147,7 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 ---
 
-9º - Editando um aplicativo existente.
+9º - Editando um aplicativo existente, com criação de seção.
 
 * Se você estiver no seu aplicativo, no canto inferior esquerdo, clique no botão (<- Voltar) ou se não estiver e quiser ir para página inicial do Power BI, acesse o site (https://app.powerbi.com/home).
 
@@ -165,6 +165,8 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 * Agora clique no nome do seu relatório, clique no campo ao lado direito (Seção), escolha a seção criada (Dashboards) e clique novamente no nome do seu relatório. Também é possível inserir os relatórios nas seções pelas setas. Pronto, agora o seu relatório encontra-se na seção (Dashboards).
 
+* Para o próximo passo, crie uma seção chamada (Vídeos) e uma seção chamada (Documentos).
+
 ![image](https://user-images.githubusercontent.com/57469401/132140619-f84d1fad-1eb5-4f10-8c04-c6f44ba669b6.png)
 
 ![image](https://user-images.githubusercontent.com/57469401/132140634-9b405b86-a6f4-4438-a78a-e787659a2ea1.png)
@@ -176,6 +178,38 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 ![image](https://user-images.githubusercontent.com/57469401/132140914-b3e81e86-2d8b-439e-aba2-1d2da8b81a8e.png)
 
 ![image](https://user-images.githubusercontent.com/57469401/132140881-9131db80-c841-4350-821e-d8841125bb17.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132141383-49d20fa5-4f5e-4330-822e-a54476661df0.png)
+
+---
+
+9º - Editando um aplicativo existente, com criação de vínculo em um arquivo
+
+* Agora iremos vincular um link e não criar uma seção. Neste caso iremos vincular a um link do Youtune com um vídeo explicativo sobre mecânica de veículos.
+
+* Na aba de (Navegação) no campo superior, clique em (Novo -> Vínculo).
+
+* Dê um nome para o vínculo, onde neste caso irei chamar de (Explicação sobre a mecânica de veículos).
+
+* Agora iremos inserir o link para o vídeo. Atenção, se o vídeo for do Youtube, por exemplo, não usaremos o link direto da guia de pesquisa, pois, não irá funcionar, pois precisa ser o link de incorporação. Iremos seguir o método abaixo:
+
+ * Clique em (Compartilhar).
+
+ * Clique em (Incorporar).
+
+ *  Copie o link que está contido na variável (src) e cole no campo (Vínculo) da edição do aplicativo do Power BI. Atentar que não é necessário copiar todo o script HTML, somente o da variável (src), neste caso o link (https://www.youtube.com/embed/Xc7YoFavnDM).
+
+* No campo (Abrir em) você pode escolher onde será aberto esse vídeo, neste caso, irei deixar a selação (Área de conteúdo), onde o vídeo será reproduzido no próprio aplicativo do Power BI.
+
+* No campo (Grupo), irei deixar no grupo ou seção que criamos no final do 8º passo, o chamado (Vídeo).
+
+![image](https://user-images.githubusercontent.com/57469401/132141423-55e3fc71-f041-431e-8ddf-b3c7f941966a.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132141520-aac8cc56-27de-4444-bf59-cd9790454ae1.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132141152-8d1ee2f8-6c79-4693-84ae-0148f2d6c35a.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132141166-f33be7b5-bd71-473d-8542-54528ad62bae.png)
 
 ---
 
