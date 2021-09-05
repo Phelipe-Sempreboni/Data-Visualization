@@ -4,7 +4,7 @@
 
  - [x] Sobre o tutorial:
 
-Criar um aplicativo dentro de uma Workspace no Power BI tem por finalidade a distribuição de visualizações em grande escala, ou seja, diversos pessoas terão a possibildiade de verificar os dataset (conjunto de dados), relatórios (reports) e as visualizações (dashboards).
+Criar um aplicativo dentro de uma Workspace no Power BI tem por finalidade a distribuição de visualizações em grande escala e com segurança, ou seja, diversos pessoas terão a possibildiade de verificar os dataset (conjunto de dados), relatórios (reports) e as visualizações (dashboards).
 
 Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
@@ -99,6 +99,57 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 ![image](https://user-images.githubusercontent.com/57469401/132139703-e2a8f427-7f7f-41cb-ae86-8f281ce30faa.png)
 
 ![image](https://user-images.githubusercontent.com/57469401/132139823-10ecfcff-2755-44e7-8c6e-cd0c9f72c156.png)
+
+---
+
+8º - Criação do aplicativo no Power BI.
+
+* Clique na sua Workspace.
+
+* No canto superior direto, clique em (Criar aplicativo).
+
+* Abrirá uma tela chamada (Crie seu aplicativo).
+
+* Na aba superior escrito (Instalação), preencha os campos (Nome do aplicativo, Descrição, Site de suporte, Logotipo do aplicativo), onde o mais importante seria na minha visão, os campos (Nome do aplicativo e Descrição). No campo (Informações de Contato), se quiser pode manter o padrão (default).
+
+* Na aba superior escrito (Navegação), neste primeiro momento, deixar somente o padrão atual (default).
+
+* Na aba superior escrito (Permissões), você poderá conceder permissões. 
+  * Se você deixar, por exemplo, o campo (Acessar) com a seleção (Toda a organização), todas pessoas que tiverem o mesmo domínio que o seu, por exemplo, @minhaempresa, conseguirão enxergar aquelas informações.
+  
+  * Se você deixar, por exemplo, o campo (Acessar) com a seleção (Indivíduos específicos ou grupo), você conseguirá inserir manualmente os e-mails nominais ou grupos de e-mail, logo, só as pessoas que você conceder acesso conseguirão enxergar aquelas informações.
+
+* Os demais campos, deixaremos como padrão (default).
+
+* Com os os passaos realizados, clique em "Publicar aplicativo".
+
+* Abrirá uma tela com o nome do seu aplicativo, neste caso o (Aplicativo do time de mecânica). Clique em (Publicar).
+
+* Se a criação do aplicativo ocorrer corretamente, uma tela chamada (Publicado com êxito) abrirá, informando que foi publicado com sucesso, onde teremos o link para compartilhamento com as pessoas.
+
+ * Você pode compartilhar esse link com as pessoas.
+
+ * Você pode solicitar que as pessoas acessem o caminho (Aplicativos > Obter aplicativos no serviço do Power BI) e adicionar o aplicativo criado por você.
+
+* Seguindo os passos, clique em (Ir para aplicativo) e terá seu aplicativo criado com sucesso.
+
+![image](https://user-images.githubusercontent.com/57469401/132140010-4daf56a2-a84d-4986-8a6d-bb560a28b802.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140151-ad494690-9bc4-444c-b565-89e2aa7847b3.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140285-3556a058-c5bc-4db4-a485-8d4a8ce9477d.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140319-06fb73cc-81ec-41c3-a21b-237406f94514.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140386-42dc7397-085d-43d8-8233-02b87db6e256.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140414-4a68f1ec-f43e-45cf-9876-2d393635d970.png)
+
+---
+
+9º - Editando um aplicativo existente.
+
+* Se você estiver no seu aplicativo, no canto inferior esquerdo, clique no botão (<- Voltar) ou se não estiver e quiser ir para página inicial do Power BI, acesse o site (https://app.powerbi.com/home).
 
 ---
 
