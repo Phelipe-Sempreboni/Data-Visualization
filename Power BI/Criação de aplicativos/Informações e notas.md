@@ -151,6 +151,32 @@ Este tutorial tem por finalidade instruir como criar um aplicativo no Power BI.
 
 * Se você estiver no seu aplicativo, no canto inferior esquerdo, clique no botão (<- Voltar) ou se não estiver e quiser ir para página inicial do Power BI, acesse o site (https://app.powerbi.com/home).
 
+* Voltando a página, clique em (Workspaces). Abrirá uma tela a direita para selecionar a worspace. 
+
+* Selecione a Workspace que foi criada para seu aplicativo.
+
+* No canto superior direito, clique em (Atualizar aplicativo), onde abrirá a tela que o aplicativo foi criado e é possível alterar informações, onde, neste caso irei alterar o nome do aplicativo de (Aplicativo do time de mecânica) para (Mecânica).
+
+* Ainda na edição, iremos editar o campo (Navegação), onde criaremos seções para os nossos relatórios, dashboards ou algo que precisamos inserir, por exemplo, uma tela explicativa daquele dashboard.
+
+* Na aba de (Navegação) no campo superior, clique em (Novo -> Seção).
+
+* Crie uma seção, neste caso criei a seção (Dashboards). Dê enter.
+
+* Agora clique no nome do seu relatório, clique no campo ao lado direito (Seção), escolha a seção criada (Dashboards) e clique novamente no nome do seu relatório. Também é possível inserir os relatórios nas seções pelas setas. Pronto, agora o seu relatório encontra-se na seção (Dashboards).
+
+![image](https://user-images.githubusercontent.com/57469401/132140619-f84d1fad-1eb5-4f10-8c04-c6f44ba669b6.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140634-9b405b86-a6f4-4438-a78a-e787659a2ea1.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140700-31616765-aae0-4f4d-80e7-2d4cdc0ec0e4.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140792-66ac881e-f095-4a59-b1de-1209c6623071.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140914-b3e81e86-2d8b-439e-aba2-1d2da8b81a8e.png)
+
+![image](https://user-images.githubusercontent.com/57469401/132140881-9131db80-c841-4350-821e-d8841125bb17.png)
+
 ---
 
 _Espero ajudar_ :smiley:
